@@ -16,7 +16,7 @@ Deep Learning with TensorFlow
 
 ## Chapter05 Convolutional Neural Network 1
 
-### Structures
+### CNN Structures
 1. Input layer
 2. Convolutional layer
 3. Pooling layer
@@ -26,3 +26,25 @@ Deep Learning with TensorFlow
 ### Feature Extractor
 
 ### Fine-Tuning
+
+## Chapter06 Convolutional Neural Network 2
+
+### Image Classification
+- LeNet-5
+- AlexNet
+- VGGNet
+- GoogLeNet
+- ResNet
+
+### Object Detection
+- Region-based CNN (R-CNN)
+- Spatial Pyramid Pooling
+- Fast R-CNN
+- Faster R-CNN
+
+### Image Segmentation
+- Fully Convolutional Network (FCN)
+- Convolutional & Deconvolutional Network
+- U-Net
+- Pyramid Scene Parsing Network (PSPNet)
+- DeepLabv3/DeepLabv3+
