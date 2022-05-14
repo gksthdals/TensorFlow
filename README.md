@@ -48,3 +48,16 @@ Deep Learning with TensorFlow
 - U-Net
 - Pyramid Scene Parsing Network (PSPNet)
 - DeepLabv3/DeepLabv3+
+
+## Chapter07 Recurrent Neural Network
+
+### RNN
+
+### LSTM
+- Forget Gate : 과거 정보를 어느 정도 기억할지 결정
+- Input  Gate : 현재 정보를 기억
+- Output Gate : 과거 정보와 현재 데이터를 사용하여 뉴련의 출력을 결정
+
+### GRU
+- Reset  Gate : 과거 정보를 적당히 초기화시키려는 목적
+- Update Gate : 과거와 현재 정보의 최신화 비율을 결정하는 역할
