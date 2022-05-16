@@ -61,3 +61,19 @@ Deep Learning with TensorFlow
 ### GRU
 - Reset  Gate : 과거 정보를 적당히 초기화시키려는 목적
 - Update Gate : 과거와 현재 정보의 최신화 비율을 결정하는 역할
+
+## Chapter08 Performance Optimization
+
+- Batch Normalization
+- Dropout
+- Early Stopping
+
+## Chapter09
+
+### Preprocessing
+1. drop NAN
+2. tokenization
+3. remove stop words
+4. extract stem of the words
+5. normalization
+
