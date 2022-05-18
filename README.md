@@ -68,7 +68,7 @@ Deep Learning with TensorFlow
 - Dropout
 - Early Stopping
 
-## Chapter09
+## Chapter09 NLP Preprocessing
 
 ### Preprocessing
 1. drop NAN
@@ -77,3 +77,10 @@ Deep Learning with TensorFlow
 4. extract stem of the words
 5. normalization
 
+## Chapter10 Embedding for NLP
+
+### Embedding
+- Sparse representation based embedding: One-hot encoding
+- Counting based embedding: Counter vector & TF-IDF
+- Prediction based embedding: Word2Vec -> Continuous Bag Of Words & skip-gram & FastText
+- Counting&Prediction based embedding: GloVe
