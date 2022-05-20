@@ -84,3 +84,11 @@ Deep Learning with TensorFlow
 - Counting based embedding: Counter vector & TF-IDF
 - Prediction based embedding: Word2Vec -> Continuous Bag Of Words & skip-gram & FastText
 - Counting&Prediction based embedding: GloVe
+
+### Transformer Attention
+- seq2seq
+- BERT: Bidirectional Encoder Representations from Transformers
+- ELMo: pre-trained language model
+
+### Korean Embedding
+
