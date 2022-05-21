@@ -92,3 +92,9 @@ Deep Learning with TensorFlow
 
 ### Korean Embedding
 
+## Chapter11 Clustering
+
+### Clustering Algorithms
+- KMeans : WCSS(elbow graph), Silhoutte -> select appropriate k
+- GMM: Gaussian Mixture Model
+- SOM: Self-Organizing Map
