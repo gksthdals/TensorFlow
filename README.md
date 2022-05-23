@@ -101,3 +101,4 @@ Deep Learning with TensorFlow
 
 ## Chapter12 Reinforcement Learning
 
+## Chapter13 Generative Adversarial Network
